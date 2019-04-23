@@ -1,5 +1,7 @@
-# Aiways_management_system
-DBMS Project Sem-3
-<?php
-  header('Location:Home Page.php');
-?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Refresh" content="0; url=Home Page.php" />
+  </head>
+</html>
+
